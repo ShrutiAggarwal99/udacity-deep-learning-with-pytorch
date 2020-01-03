@@ -1,7 +1,0 @@
-1. Loss functions : nn.LogSoftmax(), n.NLLLoss(), nn.CrossEntropyLoss()
-
-2. Optimizers : SGD, Adam
-
-3. Doubt : Should I flatten the images to -
-    a. images.view(images.shape[0],-1) or 
-    b. images.view(images.shape[0],1,-1)
